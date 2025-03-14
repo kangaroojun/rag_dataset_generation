@@ -1,0 +1,9 @@
+# General utilities
+tqdm
+pandas
+scipy
+
+# LLM and Retrieval frameworks
+haystack-ai
+llama-index
+milvus-haystack
