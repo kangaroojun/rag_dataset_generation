@@ -1,6 +1,5 @@
----
-title: New Dataset Generation
----
+# New Dataset Generation
+
 # Context
 
 This code was implemented to generate datasets to use for (1) evaluation of the RAG via LLM-as-a-judge, (2) empirical evaluation of the RAG and (3) training of COLBERT and Linear Adapters. 
